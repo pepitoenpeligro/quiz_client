@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49ade188.chunk.css",
+    "main.js": "/static/js/main.27c138d9.chunk.js",
+    "main.js.map": "/static/js/main.27c138d9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81534a39.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81534a39.js.map",
+    "static/css/2.85ea3186.chunk.css": "/static/css/2.85ea3186.chunk.css",
+    "static/js/2.2e0361d1.chunk.js": "/static/js/2.2e0361d1.chunk.js",
+    "static/js/2.2e0361d1.chunk.js.map": "/static/js/2.2e0361d1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.495723bac84a0b0e5536e549ce407808.js": "/precache-manifest.495723bac84a0b0e5536e549ce407808.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.85ea3186.chunk.css.map": "/static/css/2.85ea3186.chunk.css.map",
+    "static/css/main.49ade188.chunk.css.map": "/static/css/main.49ade188.chunk.css.map",
+    "static/js/2.2e0361d1.chunk.js.LICENSE.txt": "/static/js/2.2e0361d1.chunk.js.LICENSE.txt",
+    "static/js/main.27c138d9.chunk.js.LICENSE.txt": "/static/js/main.27c138d9.chunk.js.LICENSE.txt",
+    "static/media/button-sound.mp3": "/static/media/button-sound.32194199.mp3",
+    "static/media/correct-answer.mp3": "/static/media/correct-answer.ee6aadae.mp3",
+    "static/media/materialdesignicons.min.css": "/static/media/materialdesignicons-webfont.f5111234.ttf",
+    "static/media/wrong-answer.mp3": "/static/media/wrong-answer.c7106542.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81534a39.js",
+    "static/css/2.85ea3186.chunk.css",
+    "static/js/2.2e0361d1.chunk.js",
+    "static/css/main.49ade188.chunk.css",
+    "static/js/main.27c138d9.chunk.js"
+  ]
+}
